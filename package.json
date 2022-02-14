@@ -1,0 +1,26 @@
+{
+  "name": "mirai-xiling",
+  "version": "1.0.0",
+  "description": "基于node-mirai的插件加载框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiyuesaves/mirai-xiling.git"
+  },
+  "keywords": [
+    "mirai",
+    "qqBot"
+  ],
+  "author": "xiyuesaves",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xiyuesaves/mirai-xiling/issues"
+  },
+  "homepage": "https://github.com/xiyuesaves/mirai-xiling#readme",
+  "dependencies": {
+    "node-mirai-sdk": "^0.3.0-beta.0"
+  }
+}
