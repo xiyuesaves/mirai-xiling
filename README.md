@@ -57,3 +57,5 @@ const plug = {
 
 module.exports = plug;
 ```
+一些自带的插件:
+[mirai-xiling-plugins](https://github.com/xiyuesaves/mirai-xiling-plugins)
