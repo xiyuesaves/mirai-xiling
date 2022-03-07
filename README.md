@@ -13,7 +13,7 @@ const options = {
     qq: 123456789, // bot qq号
     dev: 123456789, // 管理员qq号
     autoLoadPlugin: true, // 自动加载plugin和@xiling-bot目录下的插件
-    commandPrefix: "/" // 命令前缀
+    commandPrefix: "#" // 命令前缀
 }
 const xiling = new Xiling(options);
 
