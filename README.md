@@ -12,7 +12,7 @@ const options = {
     verifyKey: 123456789, // 验证key
     qq: 123456789, // bot qq号
     dev: 123456789, // 管理员qq号
-    autoLoadPlugin: true, // 自动加载plugin和@xiling-bot目录下的插件
+    autoLoadPlugin: true, // [不推荐]自动加载plugin和@xiling-bot目录下的插件
     commandPrefix: "#" // 命令前缀
 }
 const xiling = new Xiling(options);
