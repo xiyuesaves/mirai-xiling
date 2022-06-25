@@ -1,6 +1,12 @@
 # mirai-xiling
 基于node-mirai的插件加载框架
 
+## 安装
+
+```
+npm install -S @xiling-bot/xiling
+```
+
 ## 使用
 
 ```js
